@@ -4,7 +4,9 @@
 <!-- END doctoc -->
 
 # Leetcode
+
 ## 1 Two Sum
+
 **标签**
 - Array
 - HashTable
@@ -23,6 +25,7 @@
 
 
 ## 144 Binary Tree Preorder Traversal
+
 **标签**
 - Tree 
 - Stack
@@ -34,6 +37,7 @@
 
 
 ## 145 Binary Tree Postorder Traversal 
+
 **标签**
 - Tree 
 - Stack
