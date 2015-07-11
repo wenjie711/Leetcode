@@ -5,7 +5,7 @@
 	- [1 Two Sum](#)
 	- [144 Binary Tree Preorder Traversal](#)
 	- [145 Binary Tree Postorder Traversal](#)
-
+<!-- END doctoc -->
 ## 1 Two Sum
 **标签**
 - Array
