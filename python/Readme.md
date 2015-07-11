@@ -1,7 +1,13 @@
-<!-- START doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-<!-- END doctoc -->
+- [Leetcode](#leetcode)
+  - [1 Two Sum](#1-two-sum)
+  - [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal)
+  - [145 Binary Tree Postorder Traversal](#145-binary-tree-postorder-traversal)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Leetcode
 
