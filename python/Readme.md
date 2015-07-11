@@ -1,11 +1,9 @@
-# Leetcode 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+<!-- START doctoc -->
 
-- [Leetcode](#)
-	- [1 Two Sum](#)
-	- [144 Binary Tree Preorder Traversal](#)
-	- [145 Binary Tree Postorder Traversal](#)
+
 <!-- END doctoc -->
+
+# Leetcode
 ## 1 Two Sum
 **标签**
 - Array
