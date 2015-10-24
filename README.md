@@ -33,6 +33,24 @@
     － 或者再遍历下原数组，找到它们的索引。
 
 
+## 19 Remove Nth Node From End of List
+
+**标签**
+- Linked List
+- Two Pointers
+
+**解题思路1**
+- 两个指针
+    - p，q一开始都指向head
+    - 为了让p和q之间包含n-2个元素
+    - 但为了删除掉倒n个元素，让p和q之间相差n-1个元素
+    - 即q先走，q先走n步。
+- 接着q一直迭代，直到q的下个next是NULL，这时q为最后一个元素
+- 此时的p为倒n个元素的上一个元素。
+- 然后就是标准的链表删除元素操作
+- 要注意的是q一开始先走的时候，如果q走到了NULL，说明题目要删的是链表的第一个元素，这时候要特殊处理下
+
+
 ## 26 Remove Duplicates from Sorted Array
 
 **标签**
