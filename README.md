@@ -6,6 +6,8 @@
   - [1 Two Sum](#1-two-sum)
   - [144 Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal)
   - [145 Binary Tree Postorder Traversal](#145-binary-tree-postorder-traversal)
+  - [263 Ugly Number(丑数)](#263-ugly-number%E4%B8%91%E6%95%B0)
+  - [292 Nim Game](#292-nim-game)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
