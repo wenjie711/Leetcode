@@ -30,6 +30,21 @@
     － 或者再遍历下原数组，找到它们的索引。
 
 
+## 26 Remove Duplicates from Sorted Array
+
+**标签**
+- Array
+- Two Pointers
+
+**解题思路1**
+- 两个指针
+    - p指向当前发现的不重复数组的最后一个元素
+    - q指向当前迭代的元素进度
+- 如果不一样
+- 就p指向下一个位置
+- 用新发现的替换，就算这时候p和q指向的一样，也没问题
+   
+
 ## 144 Binary Tree Preorder Traversal
 
 **标签**
