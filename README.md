@@ -54,6 +54,16 @@
 - 要注意的是q一开始先走的时候，如果q走到了NULL，说明题目要删的是链表的第一个元素，这时候要特殊处理下
 
 
+## 20 Valid Parentheses
+
+**标签**
+- String
+- Stack
+
+**解题思路1**
+- 用栈来解决，这题就不说了，很简单。
+
+
 ## 26 Remove Duplicates from Sorted Array
 
 **标签**
