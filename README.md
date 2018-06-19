@@ -20,8 +20,8 @@
 ## 1 Two Sum
 
 **标签**
-- Array
-- HashTable
+- `Array`
+- `HashTable`
 
 **解题思路1**
 - 先排序这个数组
@@ -39,8 +39,8 @@
 ## 19 Remove Nth Node From End of List
 
 **标签**
-- Linked List
-- Two Pointers
+- `Linked List`
+- `Two Pointers`
 
 **解题思路1**
 - 两个指针
@@ -57,8 +57,8 @@
 ## 20 Valid Parentheses
 
 **标签**
-- String
-- Stack
+- `String`
+- `Stack`
 
 **解题思路1**
 - 用栈来解决，这题就不说了，很简单。
@@ -67,8 +67,8 @@
 ## 26 Remove Duplicates from Sorted Array
 
 **标签**
-- Array
-- Two Pointers
+- `Array`
+- `Two Pointers`
 
 **解题思路1**
 - 两个指针
@@ -108,8 +108,8 @@
 ## 144 Binary Tree Preorder Traversal
 
 **标签**
-- Tree 
-- Stack
+- `Tree`
+- `Stack`
 
 **解题思路**
 - 用一个栈，从根开始先入栈
@@ -120,8 +120,8 @@
 ## 145 Binary Tree Postorder Traversal 
 
 **标签**
-- Tree 
-- Stack
+- `Tree`
+- `Stack`
 
 **解题思路**
 - 用一个栈和一个Set
@@ -145,7 +145,7 @@
 ## 292 Nim Game 
 
 **标签**
-- Math
+- `Math`
 
 **解题思路**
 - 这题比较简单，在没看剑指offer前。
