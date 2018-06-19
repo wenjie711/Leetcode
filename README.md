@@ -82,7 +82,7 @@
 ## 46 Permutations
 
 **标签**
-- Backtracking(dfs)
+- `Backtracking(dfs)`
 
 **解题思路1**
 - 这题标签是回溯，就是用递归可以将大问题分成子问题
@@ -99,7 +99,7 @@
 ## 77 Combinations
 
 **标签**
-- Backtracking
+- `Backtracking1
 
 **解题思路1**
 - 这题标签是回溯，就是用递归可以将大问题分成子问题
